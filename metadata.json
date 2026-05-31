@@ -1,0 +1,6 @@
+{
+  "name": "LoveBloom",
+  "description": "LoveBloom is a cute premium romantic platform where users can create digital gifts, scrapbooks, wallpapers, flower bouquets, romantic playlists, movie dates, and save couple memories with Bloomy 🌷.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
